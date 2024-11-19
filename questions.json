@@ -1,0 +1,32 @@
+[
+  {
+    "questionNo": 1,
+    "question": "A customer wrote \"twenty-three\" on a slip, but Liam must record it in digits. How should Liam write it?",
+    "options":["Twenty-three","=",""],
+    "answers": ["Twenty-three","=","23"]
+  },
+  {
+    "questionNo": 2,
+    "question": "Another form requires Liam to write \"forty-five\" in digits. What should he write?",
+    "options":["Forty-five","=",""],
+    "answers": ["Forty-five","=","45"]
+  },
+  {
+    "questionNo": 3,
+    "question": "On an application, Liam needs to record \"thirty-eight\" in digits. What is the correct number?",
+    "options":["Thirty-eight","=",""],
+    "answers": ["Thirty-eight","=","38"]
+  },
+  {
+    "questionNo": 4,
+    "question": "A customer’s document states \"ninety-two\", but it needs to be written in digits. How should Liam write it?",
+    "options":["Ninety-two","=",""],
+    "answers": ["Ninety-two","=","92"]
+  },
+  {
+    "questionNo": 5,
+    "question": "Finally, Liam must write \"ninety-seven\" in digits on a check. What should he write?",
+    "options":["Ninety-seven","=",""],
+    "answers": ["Ninety-seven","=","97"]
+  }
+]

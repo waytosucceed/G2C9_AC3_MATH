@@ -1,0 +1,112 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Which number is written in standard form for <br>400 + 20 + 5?",
+    "options": [
+      "425",
+      "452",
+      "405",
+      "524"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q2",
+    "question": "What is the standard form of <br>300 + 60 + 9?",
+    "options": [
+      "639",
+      "396",
+      "369",
+      "963"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q3",
+    "question": "What is the standard form of <br>200 + 50 + 1?",
+    "options": [
+      "251",
+      "521",
+      "215",
+      "152"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q4",
+    "question": "Which number represents <br>700 + 30 + 8?",
+    "options": [
+      "378",
+      "783",
+      "807",
+      "738"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q5",
+    "question": "What is 500 + 40 + 3 in standard form?",
+    "options": [
+      "453",
+      "534",
+      "543",
+      "354"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q6",
+    "question": "What is the expanded form of 684?",
+    "options": [
+      "600 + 80 + 4",
+      "680 + 4",
+      "600 + 8 + 40",
+      "60 + 800 + 4"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q7",
+    "question": "Write 407 in expanded form:",
+    "options": [
+      "400 + 70 + 7",
+      "400 + 7",
+      "40 + 7",
+      "400 + 0 + 7"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q8",
+    "question": "Which of the following is the expanded form of 532?",
+    "options": [
+      "530 + 2",
+      "530 + 30 + 2",
+      "500 + 3 + 20",
+      "50 + 320"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q9",
+    "question": "What is the expanded form of 720?",
+    "options": [
+      "700 + 20",
+      "700 + 2",
+      "700 + 20 + 0",
+      "70 + 20 + 0"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q10",
+    "question": "What is 356 in expanded form?",
+    "options": [
+      "300 + 5 + 60",
+      "350 + 6",
+      "300 + 50 + 6",
+      "30 + 56"
+    ],
+    "correct": 2
+  }
+]
